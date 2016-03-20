@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Venturesity</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400' rel='stylesheet' type='text/css'>
+<style>
+</style>font-family: 	
+
+</head>
+
+<body>
+<header>
+	<span>Venturesity</span>
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href="#">About</a></li>
+	</ul>
+</header>																																
+<div class="container">
+	<div>UP FOR A CHALLENGE ?</div>
+	<div class="desc">Solve Challenges And Get Hired !</div>
+	<button id="submit">REGISTER</button>
+</div>
+<footer>
+	   All rights reserved 16'
+</footer>
+</body>
+
+</html>
